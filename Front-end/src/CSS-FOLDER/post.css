@@ -1,0 +1,36 @@
+#post {
+    font-size: 100%;
+    width: 492px;
+    height: 200px;
+    padding: 3px;
+    margin: 0;
+    border: 1px solid gray;
+}
+
+#title {
+    font-size: 100%;
+    width: 492px;
+    height: 45px;
+    padding: 3px;
+    margin: 0;
+    border: 1px solid gray;
+}
+
+#create-post .containers {
+    width: 75%;
+    height: 100%;
+    margin-top: 10px;
+    border: 0.5rem solid orange;
+    margin-left: 20px;
+
+}
+
+#create-post .all_info {
+    height: 100%;
+    margin-bottom: 15px;
+}
+
+#create-post .container_rest {
+    height: 100%;
+    width: 75%;
+}
